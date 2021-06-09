@@ -2,8 +2,10 @@
 This is a mini bank search application.You can choose any bank from the api and can mark it as favourite in database.
 
 # Working
-1)The app takes data from mock api approx data ( 3600 records) .
+1)The app takes data from mock api approx data ( 3600 records).  
+
 2)It than caches the api data to save the time
+
 3)There is dynamic searching to select any bank
 4)You can mark any bank as favourite and it will get stored in my favourite section in backened(Mysql server).
 5)In favourite section you can delete or update any bank data
