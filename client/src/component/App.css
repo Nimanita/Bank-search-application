@@ -1,0 +1,113 @@
+.screen{
+    
+}
+.search{
+    margin-left: 10%;
+}
+.listclass{
+    margin-left: 10%;
+}
+.favo{
+    margin-right:20%;
+    white-space: nowrap;
+}
+.favo1{
+    white-space: nowrap;
+}
+.drop{
+    background-color:black;
+    color:white;
+}
+.navbar-light .navbar-nav .nav-link {
+    /* color: rgba(0,0,0,.5); */
+    color:white;
+    font-weight: 700px;
+}
+.dropdown-item {
+   color:white;
+}
+.footer{
+  margin:0px;
+ margin-bottom: 10px;
+ justify-content: center;
+}
+.prev{
+    margin-right: 2%;
+}
+.next{
+    margin-left: 2%;
+}
+.submit{
+    margin-left: 3px;
+}
+#inputpage{
+    width:50px;
+}
+.editicon{
+    margin-right: 10px;
+    
+}
+.favtable{
+    position: absolute;
+    z-index: 10; 
+}
+
+
+.editbox{
+    position: absolute;
+    z-index: 10;
+    top:10%;
+    background-color: white;
+   
+    left:25%;
+    right:25%;
+    width:30%;
+    
+    padding: 0px;
+    border : 3px solid rgb(231, 222, 222);
+}
+.delete{
+    position: absolute;
+    z-index: 10;
+    top:10%;
+    background-color: white;
+   
+    left:25%;
+    right:25%;
+    width:50%;
+    
+    padding: 0px;
+    border : 3px solid rgb(231, 222, 222);
+}
+.editrow{
+    margin: 0px;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding: auto;
+   
+}
+.details{
+    margin-bottom: 10px;
+}
+.buttonrow{
+    margin-top: 20px;
+    
+}
+.detailsrow{
+    background-color: black;
+    color:white;
+    border : 3px solid rgb(231, 222, 222);
+
+   
+}
+.editsubmit{
+    margin-right: 10px;
+}
+.inputbox{
+    width:80%;
+}
+.empty{
+    margin-top: 30px;
+}
